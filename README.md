@@ -1,4 +1,4 @@
-Dive into the heart of the film industry with "Cinematic Data Insights," a Python project that unveils the intriguing world of movie analytics. Utilizing the powerful capabilities of Pandas, this project navigates through an extensive dataset to bring forth a series of insightful analyses and visualizations, offering a unique lens into the dynamics of the movie world.
+Dive into the heart of the film industry with "Cinematic Data Insights," a Python project that unveils the intriguing world of movie analytics. Click on the Python kernel in the repository to access the file in order to preview the analysis as well as view the code. Utilizing the powerful capabilities of Pandas, this project navigates through an extensive dataset to bring forth a series of insightful analyses and visualizations, offering a unique lens into the dynamics of the movie world.
 
 Key Features:
 
